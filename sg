@@ -1,0 +1,25 @@
+Infinity-Marble-ERP
+│
+├── app
+│   ├── dashboard
+│   ├── quotations
+│   ├── customers
+│   ├── materials
+│   ├── inventory
+│   └── ai
+│
+├── database
+│
+├── assets
+│   ├── logo
+│   ├── stamp
+│   ├── signature
+│   └── letterhead
+│
+├── exports
+│
+├── templates
+│
+├── main.py
+│
+└── requirements.txt
